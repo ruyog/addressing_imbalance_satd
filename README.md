@@ -1,7 +1,7 @@
 # addressing_imbalance_satd
 This repository contains the source code for evaluating different balancing schemes for SATD classification in SE domain.
 
-Configuration:
+Exeuction Configuration:
 Set the path for input, output, log, trained model and the text transformer file.
 Input - Input csv file containing labeled source code comments.
 Output - Metrics - Precision, Recall, F1, ROC-AUC, Sensitivity, Specificity, Geometric-Mean for each balancing scheme in latex (.tex) files and csv files containing the test data along with the output prediction probablity.
